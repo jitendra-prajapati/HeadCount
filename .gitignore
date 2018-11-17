@@ -1,0 +1,11 @@
+model_mid.h5
+JPEGImages.zip
+Annotations.zip
+pre_train_model.h5
+tinyl_yolo_backend.h5
+*.h5
+*.pyc
+data/
+Annotations/
+JPEGImages/
+*.zip
